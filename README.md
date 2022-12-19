@@ -6,4 +6,4 @@ the user will land on the payment page where user can select the amount to be pa
 
 Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. The invoice will contain the amount.
 
-check out my website :- https://coderaman007.000webhostapp.com
+check out my website :- https://its-aman-saxena.github.io/payment-gateway-website/
